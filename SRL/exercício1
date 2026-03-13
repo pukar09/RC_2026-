@@ -1,1 +1,14 @@
 
+1. Autenticação de utilizadores
+Um serviço de autenticação que obrige os utilizadores a fazer login com credenciais próprias.
+Permissões e recursos Pastas partilhadas um permissões especifias
+Partilha de impressoras
+Uma impressora partilha pela adimistração e RH.
+
+2. O acesso deve ser negado, porque não tem permissões para a pasta de RH.
+
+3. Serve para identificar e autenticar o utilizador e aplicar a permissões corretas.
+
+4. É controlada por permissões definidas pelo administrador. O SON gere quem pode usar a impressora.
+
+5. Através de logs/registros de segurança que mostram tentativas de acesso não autorizado.
